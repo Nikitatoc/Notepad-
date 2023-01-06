@@ -1,0 +1,142 @@
+body{
+    background-color: #545452;
+    background-size: cover;
+}
+#Login{
+    text-align: center;
+    margin-top: 70%;
+}
+.LoginForm{
+    width: 80%;
+    height: 50px;
+    border-radius: 15px;
+    font-size: 30px;
+    background-color: #d1d179;
+}
+#LoginButton{
+    width: 25%;
+    height: 50px;
+    border-radius: 15px;
+    background-color: #cfcf06;
+}
+
+
+#CreateButton{
+    margin-left: 80%;
+    margin-top: 40%;
+    text-decoration: none;
+    font-size: 500%;
+    border-radius: 30px;
+    width: 13%;
+    height: 130px;
+    background-color: #cfcf06;
+}
+
+
+
+.esc{
+    font-size: 70px;
+    color: #cfcf06;
+    display: inline;
+    margin-left: 7%;
+    text-decoration: none;
+}
+#TaskName{
+    font-size: 70px;
+    color: #292928;
+    display: inline;
+    margin-left: 10%;
+    text-align: center;
+}
+
+.TaskParameters{
+    background-color: #d1d179;
+    padding: 3%;
+    margin-top: 5%;
+}
+#work{
+    margin-left: 23%;
+    transform:scale(5);
+    opacity:5;
+    cursor:pointer;
+}
+#personal{
+    margin-left: 20%;
+    transform:scale(5);
+    opacity:5;
+    cursor:pointer;
+}
+
+#text{
+    background-color: #d1d179;
+    font-size: 300%;
+    border: none;
+}
+#date{
+    background-color: #d1d179;
+    border: none;
+    font-size: 300%;
+}
+
+#urgently{
+    transform:scale(5);
+    opacity:5;
+    cursor:pointer;
+    margin-left: 5%;
+}
+
+#Create{
+    width: 25%;
+    height: 70px;
+    border-radius: 15px;
+    background-color: #cfcf06;
+    margin-left: 40%;
+    margin-top: 5%;
+    font-size: 250%;
+}
+
+
+.TypeTasks{
+    display: inline;
+    background-color: #bfbaba;
+    text-decoration: none;
+    margin-left: 7%;
+    border-radius: 50px;
+    padding: 1%;
+    width: 500%;
+    color: black;
+    height: 20px;
+    font-size: 500%;
+}
+.TypeTasks:hover{
+    background-color: #d1d179;
+
+    box-shadow: 5px 10px 14px 2px black;
+}
+#all{
+    background-color: #d1d179;
+    box-shadow: 5px 10px 14px 2px black;
+}
+
+
+li{
+    margin-bottom: 1%;
+    margin-left: 10%;
+
+    width: 80%;
+    height: 250px;
+    background-color: #bfbaba;
+    list-style: none;
+    border-radius: 30px;
+    font-size: 200%;
+    padding: 2%;
+}
+
+#done{
+    transform:scale(5);
+    opacity:5;
+    cursor:pointer;
+    margin-left: 90%;
+
+
+}
